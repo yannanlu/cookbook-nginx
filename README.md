@@ -1,1 +1,3 @@
-# cookbook-nginx
+DESCRIPTION
+====
+This cookbook installs nginx.
